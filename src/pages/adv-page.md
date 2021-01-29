@@ -14,5 +14,11 @@ sections:
       background_image_size: cover
       background_image_repeat: no-repeat
     type: hero_section
+  - title: lorem-ipsum
+    subtitle: lorem-ipsum
+    actions: []
+    has_background: false
+    background_color: white
+    type: cta_section
 template: advanced
 ---
