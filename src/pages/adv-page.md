@@ -20,5 +20,6 @@ sections:
     has_background: false
     background_color: white
     type: cta_section
+  - type: contact_section
 template: advanced
 ---
